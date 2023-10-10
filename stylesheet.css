@@ -6,6 +6,10 @@ body{
 }
 
 p{
-    font-family:'Courier New', Courier, monospace;
     font-size:medium;
+}
+
+.about{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:brown;
 }
