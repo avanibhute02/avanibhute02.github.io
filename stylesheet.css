@@ -18,7 +18,6 @@ a:hover{
 
 .content {
     display: flex;
-    justify-content: space-around;
 }
 
 .about {
