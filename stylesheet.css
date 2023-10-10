@@ -7,12 +7,16 @@ body{
 
 p{
     font-size:medium;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .about{
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color:brown;
+    font-family:'Courier New', Courier, monospace;
+    color:rgb(63, 20, 20);
 }
 .headingProf{
+    text-align: center;
+}
+h2{
     text-align: center;
 }
