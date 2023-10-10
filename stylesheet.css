@@ -1,36 +1,34 @@
-body{
+body {
     background-color: rgba(222, 178, 206, 0.936);
-}
-.wallpaper{
-    width: 80%;
-}
-
-p{
-    font-size:medium;
     font-family: 'Courier New', Courier, monospace;
-}
-#headingProf{
-    text-align: center;
-}
-a:hover{
-    color: blue;
+    margin: 0;
+    padding: 0;
 }
 
 .content {
     display: flex;
     justify-content: space-between;
+    max-width: 1200px; /* Optional: Limit the maximum width of the content */
+    margin: 0 auto; /* Optional: Center the content horizontally */
 }
 
-.about {
-    font-family:'Courier New', Courier, monospace;
-    color:rgb(63, 20, 20);
+.about, .list {
     flex: 1;
-    padding-right: 30%; /* Add spacing between the paragraphs */
+    padding: 20px; /* Add spacing between the columns */
 }
 
-.list {
-    margin-left:70%;
-    font-family:'Courier New', Courier, monospace;
-    flex: 1;
+.list ul {
+    list-style-type: disc;
+    margin-left: 20px;
 }
 
+/* Optional styling for links */
+a:hover {
+    color: blue;
+}
+
+/* Additional styling for headers if needed */
+h2, h3 {
+    text-align: center;
+    color: rgb(63, 20, 20);
+}
