@@ -2,7 +2,7 @@ body{
     background-color: rgba(222, 178, 206, 0.936);
 }
 .wallpaper{
-    width: auto;
+    width: 80%;
 }
 
 p{
@@ -12,4 +12,7 @@ p{
 .about{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color:brown;
+}
+.professionalTag{
+    text-align: center;
 }
