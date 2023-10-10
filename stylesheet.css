@@ -16,9 +16,6 @@ a:hover{
     color: blue;
 }
 
-.content {
-    display: flex;
-}
 
 .about {
     font-family:'Courier New', Courier, monospace;
