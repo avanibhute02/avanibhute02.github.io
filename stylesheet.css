@@ -25,11 +25,11 @@ a:hover{
     font-family:'Courier New', Courier, monospace;
     color:rgb(63, 20, 20);
     flex: 1;
-    padding-right: 20px; /* Add spacing between the paragraphs */
+    padding-right: 30%; /* Add spacing between the paragraphs */
 }
 
 .list {
-    margin-left:80%;
+    margin-left:70%;
     font-family:'Courier New', Courier, monospace;
     flex: 1;
 }
