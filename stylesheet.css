@@ -29,3 +29,8 @@ a:hover {
 .list {
     font-family: 'Courier New', Courier, monospace;
 }
+
+#utaus {
+    float: right; /* Float the image to the right */
+    margin-left: 20px; /* Add some spacing between the text and image */
+}
