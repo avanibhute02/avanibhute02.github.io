@@ -34,3 +34,9 @@ a:hover {
     float: right; /* Float the image to the right */
     margin-left: 20px; /* Add some spacing between the text and image */
 }
+
+/* Style for the "I am a current junior" paragraph */
+.about p {
+    font-size: medium;
+    margin-top: 10px; /* Add some spacing between the paragraphs */
+}
